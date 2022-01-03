@@ -12,11 +12,8 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 * GIT
 ## Code Example
 ```
-<!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Заголовок</title>
 </head>
 <body>
 </body>
