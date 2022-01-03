@@ -19,8 +19,6 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 <title>Заголовок</title>
 </head>
 <body>
-<h1>Это заголовок</h1>
-<p>Это параграф</p>
 </body>
 </html>
 ```
