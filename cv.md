@@ -12,12 +12,14 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 * GIT
 ## Code Example
 ```
-<html>
-<head>
-</head>
-<body>
-</body>
-</html>
+function truncate(str, maxlength) {
+  let newStr;
+  if (str.length > maxlength) {
+ newStr = str.slice(0, maxlength - 3) + "...";
+ return newStr;
+  }
+  return str;
+}
 ```
 # Experience
 None
